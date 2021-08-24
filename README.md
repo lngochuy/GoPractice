@@ -9,30 +9,30 @@ The first go practice:
 # Installation
 Only the need of cloning from Github
 ```shell
-$ git clone https://github.com/lngochuy/GoPractice1
-$ cd GoPractice1
-GoPractice1$ _
+$ git clone https://github.com/lngochuy/GoPractice
+$ cd GoPractice
+GoPractice$ _
 ```
 
 # Run
 For testing the package
 ```shell
-GoPractice1$ go test ./...
+GoPractice$ go test ./...
 ```
 
 For a demo
 ```shell
-GoPractice1$ go run main.go
+GoPractice$ go run main.go
 ```
 
 If you don't have any suitable Go compilers, you could run directly the excutable file
 ```shell
-GoPractice1$ .\gopractice.exe
+GoPractice$ .\gopractice.exe
 ```
 
 Example:
 ```shell
-GoPractice1$ go run main.go
+GoPractice$ go run main.go
 Input the first number: 13.5
 Input the second number: 22.7
 Choose the operator (+-*/): /
