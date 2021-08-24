@@ -1,6 +1,6 @@
-# GoPractice1
+# GoPractice
 The first go practice:
-- Build a program computing summary, substraction, multiplication, and division of two large real numbers.
+- Build a program computing the summary, substraction, multiplication, and division of two large real numbers.
 - The program doesn't use any built-in functions for large numbers or converting string to number.
 
 # Requirements
@@ -25,7 +25,7 @@ For a demo
 GoPractice1$ go run main.go
 ```
 
-If you don't have any suitable Go compiler, you could run directly the excutable file
+If you don't have any suitable Go compilers, you could run directly the excutable file
 ```shell
 GoPractice1$ .\gopractice.exe
 ```
